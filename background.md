@@ -6,3 +6,5 @@
 
 [Homestead hard fork: upgrading from Bitcoin (?) spec signatures to... greater than that](https://github.com/ethereum/EIPs/blob/8a96c38ba6c7cb4ca537a99b112586e815f6d616/EIPS/eip-2.md?plain=1#L28)
 
+EIP-712: [Typed structured data hashing and signing](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md)
+
